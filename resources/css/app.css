@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import './base/_reset.css';
+@import './base/_typography.css';
+@import './base/_animations.css';
+
+@import './layout/_style.css';
+
+
+
+
